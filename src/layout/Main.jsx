@@ -26,6 +26,7 @@ const Main = () => {
                 console.error(err);
                 setLoading(false)
             });
+
     };
 
     useEffect(() => {
